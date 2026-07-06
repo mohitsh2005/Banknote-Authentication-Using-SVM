@@ -1,8 +1,2 @@
-python
-streamlit
-numpy
-pandas
-scikit-learn==1.6.1
-joblib
-requests
-plotly
+scikit-learn
+
